@@ -1,4 +1,4 @@
-package com.example.myblog;
+package com.vsita.myblog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
