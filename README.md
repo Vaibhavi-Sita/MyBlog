@@ -11,7 +11,8 @@
 ## An experiment with Thymeleaf
 
 Thymeleaf is a modern, flexible, and easy-to-use template engine that is used for building dynamic web applications  
-Its simple syntax, integration with Spring, and good documentation made it an ideal choice to develop this basic app  
+Its simple syntax, integration with Spring, and good documentation made it an ideal choice to develop this basic app.   
+You may visit my <a href="https://vaibhavigs.wixsite.com/epoch">blog</a> that provides on overview of thymeleaf: <a href="https://vaibhavigs.wixsite.com/epoch/post/a-full-stack-shortcut"> A Full Stack Shortcut</a>
 
 ### Requirements
 <img src="https://badgen.net/badge/Java/17/green"> <img src="https://badgen.net/badge/Spring Boot/3.0.2/green"> <img src="https://badgen.net/badge/Thymeleaf/3.1/green">  
